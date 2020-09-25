@@ -4,7 +4,7 @@ ID,Name,Designator,Footprint,Quantity,Description
 3,THONKICONNNEW,"U4,U3,U2",THONKICONN-TIGHT,3,Thonkiconn jacks
 4,HDR-M-2.54_2x5,"J1,J2",HDR-M-2.54_2X5,2,"2x5 male pin header, 2.54mm spacing"
 5,Ferrite,"F1,F2",Ferrite Bead,2,Ferrite beads
-7,1k,"R2, R3,R5",805,,"1k resistor, 0805 SMT (for LEDs, adjust as needed)"
+7,1k,"R2, R3,R5",805,3,"1k resistor, 0805 SMT (for LEDs, adjust as needed)"
 8,IDC Box 2.54mm 2X5P,P1,EURO_PWR_HEADER_LOCK,1,2x5 pin box header (Eurorack power)
 9,LED-TH-3mm_R,"LED2,LED5,LED3",LED-TH_BD3.0_RED,3,any 3mm LED
 10,HDR-M-2.54_1x3,"J3,J4",HDR-M-2.54_1X3,2,"1x3 male pin header, 2.54mm spacing"
