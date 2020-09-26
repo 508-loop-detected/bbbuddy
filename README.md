@@ -1,6 +1,6 @@
 Seems like everyone has to design one of these sooner or later.
 
-![Breadboard Buddy](bbbuddy.png)
+![Breadboard Buddy](bbbuddy-off.jpg)
 
 The jumper-able 5v/ground on one side is borrowed directly from Transient Modules.
 
