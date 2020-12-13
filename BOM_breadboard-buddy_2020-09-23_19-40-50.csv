@@ -8,5 +8,5 @@ ID,Name,Designator,Footprint,Quantity,Description
 8,IDC Box 2.54mm 2X5P,P1,EURO_PWR_HEADER_LOCK,1,2x5 pin box header (Eurorack power)
 9,LED-TH-3mm_R,"LED2,LED5,LED3",LED-TH_BD3.0_RED,3,any 3mm LED
 10,HDR-M-2.54_1x3,"J3,J4",HDR-M-2.54_1X3,2,"1x3 male pin header, 2.54mm spacing"
-11,1N5817,"D7,D6",DO-41,2,"1n5817 diode — can use 4001, etc"
+11,1N5819,"D7,D6",DO-41,2,"1n5819 diode — can use 4001, etc"
 12,10uF,"C15,C16",CAP-D5.0XF2.0,2,10uF electrolytic capacitor
